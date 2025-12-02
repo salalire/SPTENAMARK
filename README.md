@@ -32,6 +32,24 @@ The platform charges a small fee per transaction, ensuring sustainable growth.
 3. Deployment & pilot testing with Addis Ababa pharmacies.
 4. Mobile app (React Native/Flutter).
 
+## file structure
+sptenamark/
+│
+├── index.html          
+├── /css
+│   └── style.css      
+├── /js
+│   └── app.js          
+├── /icons
+│   └── ...             
+├── /assets
+│   └── images/         
+├── /pages
+│   ├── login.html      
+│   ├── cart.html       
+│   ├── dashboard.html  
+│   └── product.html    
+└── README.md           
 ## Future Ideas
 - Teleconsultation integration.
 - Delivery tracking.
