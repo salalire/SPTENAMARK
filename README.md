@@ -1,7 +1,7 @@
 # SPTENAMARK
 
 ## Overview
-SPTENAMARK is a centralized online pharmacy marketplace designed for Ethiopia.  
+SPTENAMARK is a centralized online pharmacy marketplace designed for Ethiopia Pharmacies.  
 It connects licensed pharmacies with customers, making it easy to buy medicines and cosmetics online.  
 The platform charges a small fee per transaction, ensuring sustainable growth.
 
